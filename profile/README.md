@@ -1,6 +1,6 @@
 # Net-Scan
 
-![Net-Scan Logo](./assets/img/logo/icon-brand.png)
+![Net-Scan Logo](./assets/img/logo/icon-alt.png)
 
 **Empowering Network Administrators with Precision Management**
 
