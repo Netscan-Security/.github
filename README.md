@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="./assets/img/logo/icon-brand.png" align="center" alt="Netscan-Logo" />
+ <img width="100px" src="./assets/img/logo/icon-alt.png" align="center" alt="Netscan-Logo" />
  <h2 align="center">Netscan Security</h2>
  <p align="center">Precision Scans, Real-time Defense</p>
 
