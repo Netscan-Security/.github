@@ -9,7 +9,7 @@
 
 **Empowering Network Administrators with Precision Management**
 
-Net-Scan is a comprehensive solution designed to empower network administrators to efficiently manage computers within their organization. With advanced capabilities for log viewing, vulnerability assessment, statistical analysis, and AI-driven suggestions, Net-Scan ensures robust network security and performance optimization. Perform scans, receive insights, and take action seamlessly with Net-Scan.
+Net-Scan Security is an advanced network management tool designed to empower administrators with comprehensive control over their computer networks. It facilitates efficient scanning of host computers to detect vulnerabilities, offers detailed insights into system states through log statistics and visuals, and provides AI-driven suggestions for optimizing network performance and security. Additionally, Net-Scan Security includes an extra package featuring built-in anti-virus protection to safeguard against malware threats. With its intuitive interface and powerful features, Net-Scan Security ensures robust network security and performance optimization for organizations of all sizes.
 
 ## How It Works
 
