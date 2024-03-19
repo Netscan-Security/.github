@@ -67,11 +67,11 @@ To get started visit out [Get Started] repository to see how you can set up and 
 Check out our demo video showcasing the key functionalities of NetScan Security:
 
 <div align="center">
-<a align="center" href="https://youtu.be/vt5fpE0bzSY">
+<a align="center" href="https://youtu.be/vt5fpE0bzSY" target="_blank">
   <img width="1080" src="https://i.imgur.com/MhZL1v6.png" alt="Client Demo Video"/>
 </a>
 
-<a align="center" href="https://youtu.be/vt5fpE0bzSY">
+<a align="center" href="https://youtu.be/vt5fpE0bzSY" target="_blank">
   <img width="1080" src="https://i.imgur.com/JFXalMn.png" alt="Dashboard Demo Video"/>
 </a>
 </div>
