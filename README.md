@@ -54,7 +54,7 @@ For more detailed information about NetScan Security and its components, please 
 
 - [NetScan API](https://github.com/Netscan-Security/netscan-api): Repository for the NetScan API, providing backend functionality for all functionalities of NetScan project.
 - [NetScan Dashboard](https://github.com/Netscan-Security/netscan-dashboard): Repository for the NetScan dashboard, offering a centralized platform for monitoring and managing network users and devices.
-- [NetScan Getting Started](https://github.com/Netscan-Security/netscan-getting-started): Repository containing resources and guides for getting started with NetScan Security.
+- [NetScan Getting Started](https://github.com/Netscan-Security/get-stared): Repository containing resources and guides for getting started with NetScan Security.
 - [NetScan Agent](<[https://github.com/Netscan-Security/netscan-client](https://github.com/Netscan-Security/netscan-agent)>): Repository for the NetScan agent application, offering a user-friendly interface for interacting with the system.
 - [NetScan AI](https://github.com/Netscan-Security/netscan-ai): Repository for the NetScan AI module, leveraging artificial intelligence to provide insightful suggestions and recommendations.
 
