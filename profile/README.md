@@ -55,7 +55,7 @@ For more detailed information about NetScan Security and its components, please 
 - [NetScan API](https://github.com/Netscan-Security/netscan-api): Repository for the NetScan API, providing backend functionality for all functionalities of NetScan project.
 - [NetScan Dashboard](https://github.com/Netscan-Security/netscan-dashboard): Repository for the NetScan dashboard, offering a centralized platform for monitoring and managing network users and devices.
 - [NetScan Getting Started](https://github.com/Netscan-Security/netscan-getting-started): Repository containing resources and guides for getting started with NetScan Security.
-- [NetScan Agent]([https://github.com/Netscan-Security/netscan-client](https://github.com/Netscan-Security/netscan-agent)): Repository for the NetScan agent application, offering a user-friendly interface for interacting with the system.
+- [NetScan Agent](<[https://github.com/Netscan-Security/netscan-client](https://github.com/Netscan-Security/netscan-agent)>): Repository for the NetScan agent application, offering a user-friendly interface for interacting with the system.
 - [NetScan AI](https://github.com/Netscan-Security/netscan-ai): Repository for the NetScan AI module, leveraging artificial intelligence to provide insightful suggestions and recommendations.
 
 Feel free to explore each repository to gain a deeper understanding of the specific components of NetScan Security and how they contribute to enhancing network management capabilities.
@@ -67,11 +67,11 @@ To get started visit out [Get Started] repository to see how you can set up and 
 Check out our demo video showcasing the key functionalities of NetScan Security:
 
 <div align="center">
-<a align="center" href="https://youtu.be/vt5fpE0bzSY" target="_blank">
+<a align="center" href="https://www.youtube.com/watch?v=43d-y5tqTys" target="_blank">
   <img width="1080" src="https://i.imgur.com/MhZL1v6.png" alt="Client Demo Video"/>
 </a>
 
-<a align="center" href="https://youtu.be/vt5fpE0bzSY" target="_blank">
+<a align="center" href="https://www.youtube.com/watch?v=_z8D533oXTs" target="_blank">
   <img width="1080" src="https://i.imgur.com/JFXalMn.png" alt="Dashboard Demo Video"/>
 </a>
 </div>
