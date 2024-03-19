@@ -5,6 +5,7 @@
 </p>
 
 NetScan is a comprehensive solution designed to empower network administrators to efficiently manage computers within their organization. With advanced capabilities for log viewing, vulnerability assessment, statistical analysis, and AI-driven suggestions, NetScan ensures robust network security and performance optimization. Perform scans, receive insights, and take action seamlessly with NetScan.
+
 # NetScan Security
 
 **Precision Scans, Real-time Defense**
@@ -25,7 +26,7 @@ NetScan Security is a comprehensive solution designed to empower network adminis
 - Node.js
 - NestJS
 - React
-- Electron 
+- Electron
 - Drizzle ORM
 - Docker
 - Postgress
@@ -60,30 +61,32 @@ For more detailed information about Net-Scan Security and its components, please
 - [Net-Scan API](https://github.com/your-organization/net-scan-api): Repository for the Net-Scan API, providing backend functionality for all functionalities of netscan project.
 - [Net-Scan Dashboard](https://github.com/your-organization/net-scan-dashboard): Repository for the Net-Scan dashboard, offering a centralized platform for monitoring and managing network users and devices.
 - [Net-Scan Getting Started](https://github.com/your-organization/net-scan-getting-started): Repository containing resources and guides for getting started with Net-Scan Security.
-- [Net-Scan Agent]([https://github.com/your-organization/net-scan-client](https://github.com/Netscan-Security/netscan-agent)): Repository for the Net-Scan agent application, offering a user-friendly interface for interacting with the system.
+- [Net-Scan Agent](<[https://github.com/your-organization/net-scan-client](https://github.com/Netscan-Security/netscan-agent)>): Repository for the Net-Scan agent application, offering a user-friendly interface for interacting with the system.
 - [Net-Scan AI](https://github.com/your-organization/net-scan-ai): Repository for the Net-Scan AI module, leveraging artificial intelligence to provide insightful suggestions and recommendations.
-
 
 Feel free to explore each repository to gain a deeper understanding of the specific components of Net-Scan Security and how they contribute to enhancing network management capabilities.
 
-To get started visit out [Get Started] repository to see how you can set up and use Netscan. You can also watch our demo videos. 
+To get started visit out [Get Started] repository to see how you can set up and use Netscan. You can also watch our demo videos.
 
 ## Demo
 
 Check out our demo video showcasing the key functionalities of NetScan Security:
 
-Client Demo Video :
-[![Client Demo Watch the video](https://i.stack.imgur.com/Vp2cE.png)]([https://youtu.be/vt5fpE0bzSY](https://www.youtube.com/watch?v=your-demo-video-id))
+<div align="center">
+<a align="center" href="https://youtu.be/vt5fpE0bzSY">
+  <img width="1080" src="https://i.imgur.com/MhZL1v6.png" alt="Client Demo Video"/>
+</a>
 
-Dashboard Demo Video :
-[![Dashboard Demo Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
+<a align="center" href="https://youtu.be/vt5fpE0bzSY">
+  <img width="1080" src="https://i.imgur.com/JFXalMn.png" alt="Dashboard Demo Video"/>
+</a>
+</div>
 
 Installation Guide coming soon..
 
 ## Support & Feedback
 
 If you encounter any issues or have feedback to share, please don't hesitate to reach out to us at [support@net-scan.com](mailto:support@net-scan.com). We're committed to continuously improving Net-Scan to meet the evolving needs of network administrators.
-
 
 ## License
 
